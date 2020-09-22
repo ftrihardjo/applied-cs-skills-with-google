@@ -1,1 +1,2 @@
-# applied-cs-skills-with-google
+# applied cs skills with google
+https://appliedcsskills.withgoogle.com/
